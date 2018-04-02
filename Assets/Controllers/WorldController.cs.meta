@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eb2ef758f9c8d674198988170a7d8049
+timeCreated: 1515742877
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DirtSprite: {fileID: 21300000, guid: 7654609e53f31b5479f560505c713b2f, type: 3}
+  - StoneSprite: {fileID: 21300000, guid: 2abc4a3f061718841a1d2e5849962cc2, type: 3}
+  - BlackBackround: {fileID: 21300000, guid: f9b7bd7df70766a4cbb63fb7cb54d430, type: 3}
+  - WorldBackround: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
